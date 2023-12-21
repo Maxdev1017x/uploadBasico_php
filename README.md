@@ -1,15 +1,9 @@
 ![image](https://github.com/Maxdev1017x/uploadBasico_php/assets/117764643/94d526c8-0ce7-47df-a00f-62a20bd577cc)
 
-# uploadBasico_php
+# UPLOAD PHP
 
 ## Breve descrição
 - Upload básico de arquivos com PHP para um servidor.
-
-
-## Tecnologias usadas
-- HTML
-- CSS
-- PHP
 
 ## Funcionalidades do PHP
 - Verifica se um formulário foi enviado.
@@ -22,3 +16,20 @@
 - Verifica se o tamanho do arquivo esta de acordo com o limite estabelecido.
 - Tenta mover o arquivo temporário para o diretório de upload com novo nome.
 - Exibe uma mensagem de sucesso ou erro com base no resultado do upload.
+
+## Tecnologias usadas
+- HTML
+- CSS
+- PHP
+
+## Autores
+
+#
+
+## Contribuição
+
+#
+
+## Licença
+
+#
